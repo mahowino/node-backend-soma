@@ -1,0 +1,19 @@
+{
+  "name": "soma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahowino/Soma-backend-node.git"
+  },
+  "author": "Mahalon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahowino/Soma-backend-node/issues"
+  },
+  "homepage": "https://github.com/mahowino/Soma-backend-node#readme"
+}
